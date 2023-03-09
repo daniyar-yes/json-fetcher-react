@@ -1,3 +1,15 @@
+This is a simple React app with mock data from [json laceholder mock API](https://jsonplaceholder.typicode.com/)
+
+You can try the app [live here](https://daniyar-yes.github.io/json-fetcher-react).
+
+Each button sets the button text as a state of a request API route.
+
+This state triggers useEffect that listens to the reqType state as a dependency.
+
+This useState runs fetch request with the API link and route from reqType (buttonText), and then sets fetched data as another state which then is used to render components in the table.
+
+Notice that the table content is flexible and the number of columns changes depending on the received JSON structure.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
