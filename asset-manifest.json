@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/json-fetcher-react/static/css/main.55b0482e.css",
+    "main.js": "/json-fetcher-react/static/js/main.c9a750ad.js",
+    "index.html": "/json-fetcher-react/index.html",
+    "main.55b0482e.css.map": "/json-fetcher-react/static/css/main.55b0482e.css.map",
+    "main.c9a750ad.js.map": "/json-fetcher-react/static/js/main.c9a750ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b0482e.css",
+    "static/js/main.c9a750ad.js"
+  ]
+}
